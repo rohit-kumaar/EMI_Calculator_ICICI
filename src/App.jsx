@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <EmiCalculator />
+      {/* https://www.iciciprulife.com/insurance-guide/financial-planning-tools-calculators/emi-calculator.html */}
     </div>
   );
 }
