@@ -1,0 +1,11 @@
+button {
+  cursor: pointer;
+}
+
+textarea {
+  resize: none;
+}
+
+h1 {
+  margin: 0;
+}
